@@ -2,7 +2,7 @@
 layout: post
 title: "Rizzard of Oz - Mclitty"
 author: "Christian Yamane"
-categories: narrative
+categories: music-video
 tags: [short]
 image: cuba-2.jpg
 ---
