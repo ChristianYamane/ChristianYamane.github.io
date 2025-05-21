@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Ignore Tenderness (2023) - Short"
+author: "Christian Yamane"
+categories: narrative
+tags: [short]
+image: cuba-2.jpg
+---
+
+## Logline
+
+A devastating loss leads a young woman to spiral on a trip to San Francisco.
+
+## Creative Development
+
+Directed by: Camille Moore & Josh Park
+
+Produced by: Christian Yamane
+
+Director of Photography: London
+
+## Cast
+
+Jupiter Little as Narrator
+
+Izzy Villarreal as Alice
