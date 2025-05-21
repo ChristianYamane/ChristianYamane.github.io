@@ -4,4 +4,8 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Christian Yamane is a writer, director and producer based out of San Diego.  Most of his experience comes from directing/producing narrative films, music videos, and specialized ads. Known for his absurd stories and unique visual style, he aims to make films that defy conventional storytelling!
+
+Other production experiences include unit production manager, assistant director, script supervisor, and production assistant.
+
+If you would like to work with Christian, please fill out the contact sheet or send him an email at christianyamanefilms@gmail.com
