@@ -5,7 +5,10 @@ author: "Christian Yamane"
 categories: narrative
 tags: [short]
 image: cuba-2.jpg
+youtubeId: VEgvJKmrnTY
 ---
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Logline
 Four friends capture their search for meaning and connection through a VHS camera.

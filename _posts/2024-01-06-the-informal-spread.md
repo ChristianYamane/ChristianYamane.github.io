@@ -5,7 +5,10 @@ author: "Christian Yamane"
 categories: narrative
 tags: [short]
 image: cuba-2.jpg
+youtubeId: sQyOtFL_byo
 ---
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Logline
 After an accident in the kitchen, a chef must deal with consequences.

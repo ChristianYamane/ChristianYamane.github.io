@@ -5,7 +5,10 @@ author: "Christian Yamane"
 categories: music-video
 tags: [short]
 image: cuba-2.jpg
+youtubeId: dR5VQtUMwVM
 ---
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Creative Development
 
