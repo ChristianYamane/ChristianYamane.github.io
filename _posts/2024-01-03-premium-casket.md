@@ -4,7 +4,7 @@ title: "Premium Casket (2023) - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
-image: cuba-2.jpg
+image: premium_casket.png
 youtubeId: VctfXzoEMQk
 ---
 

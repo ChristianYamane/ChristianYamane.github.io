@@ -4,7 +4,7 @@ title: "And Here We Are (2024) - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
-image: cuba-2.jpg
+image: and_here_we_are.png
 youtubeId: VEgvJKmrnTY
 ---
 

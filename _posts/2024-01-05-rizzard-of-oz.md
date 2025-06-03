@@ -4,7 +4,7 @@ title: "Rizzard of Oz - Mclitty"
 author: "Christian Yamane"
 categories: music-video
 tags: [short]
-image: cuba-2.jpg
+image: rizzard_of_oz.png
 youtubeId: dR5VQtUMwVM
 ---
 

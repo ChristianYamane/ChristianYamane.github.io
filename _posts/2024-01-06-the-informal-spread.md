@@ -4,7 +4,7 @@ title: "The Informal Spread (SFSU Undergrad Thesis Film) (2023) - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
-image: cuba-2.jpg
+image: the_informal_spread.png
 youtubeId: sQyOtFL_byo
 ---
 
