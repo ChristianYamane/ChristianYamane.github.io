@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: contact_picture.jpg
 permalink: /about
 ---
 
