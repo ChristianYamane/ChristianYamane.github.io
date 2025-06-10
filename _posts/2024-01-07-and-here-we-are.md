@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And Here We Are (2024) - Short"
+title: "And Here We Are - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]

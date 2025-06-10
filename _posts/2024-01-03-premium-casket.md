@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Premium Casket (2023) - Short"
+title: "Premium Casket - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]

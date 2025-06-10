@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ignore Tenderness (2023) - Short"
+title: "Ignore Tenderness - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
