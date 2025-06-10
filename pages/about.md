@@ -8,4 +8,4 @@ Christian Yamane is a writer, director and producer based out of San Diego.  Mos
 
 Other production experiences include unit production manager, assistant director, script supervisor, and production assistant.
 
-If you would like to work with Christian, please fill out the contact sheet or send him an email at christianyamanefilms@gmail.com
+If you would like to work with Christian, you can contact him at christianyamanefilms@gmail.com
