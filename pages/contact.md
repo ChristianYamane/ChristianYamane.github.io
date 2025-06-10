@@ -4,4 +4,5 @@ title: Contact
 permalink: /contact
 ---
 
-contact: christianyamanefilms@gmail.com
+christianyamanefilms@gmail.com
+instagram: @christianyamane
