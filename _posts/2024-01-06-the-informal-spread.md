@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Informal Spread (SFSU Undergrad Thesis Film) (2023) - Short"
+title: "The Informal Spread (2023) - Short
+Director"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
