@@ -21,6 +21,8 @@ Produced by: Chantel Sizemore & Christian Yamane
 
 Director of Photography: Lucas Williams
 
+Editor: Jose Marrufo
+
 Production Designer: Zureyka
 
 ## Cast

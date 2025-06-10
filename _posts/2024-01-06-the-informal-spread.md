@@ -19,6 +19,8 @@ Written, Produced, and Directed by: Christian Yamane
 
 Director of Photography: London
 
+Editor: Jose Marrufo
+
 ## Cast
 
 Tyler Aguallo as August
