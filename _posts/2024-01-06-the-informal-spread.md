@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The Informal Spread (2023) - Short
-Director"
+title: "The Informal Spread (2023) - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
