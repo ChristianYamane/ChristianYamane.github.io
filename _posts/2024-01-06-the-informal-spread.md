@@ -1,7 +1,6 @@
 ---
 layout: post
-title: # "The Informal Spread - Short"
-## "Director"
+title: "The Informal Spread - Short"
 author: "Christian Yamane"
 categories: narrative
 tags: [short]
