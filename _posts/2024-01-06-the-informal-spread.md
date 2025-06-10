@@ -13,7 +13,7 @@ youtubeId: sQyOtFL_byo
 ## Logline
 After an accident in the kitchen, a chef must deal with consequences.
 
-## Creative Development
+## Crew
 
 Written, Produced, and Directed by: Christian Yamane
 

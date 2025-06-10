@@ -13,7 +13,7 @@ youtubeId: VEgvJKmrnTY
 ## Logline
 Four friends capture their search for meaning and connection through a VHS camera.
 
-## Creative Development
+## Crew
 
 Written and Directed by: Christian Yamane
 
