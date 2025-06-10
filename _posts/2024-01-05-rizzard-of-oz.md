@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rizzard of Oz - Mclitty"
+title: "McLitty 'Rizzard of Oz'"
 author: "Christian Yamane"
 categories: music-video
 tags: [short]
