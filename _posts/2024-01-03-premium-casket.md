@@ -7,6 +7,7 @@ tags: [short]
 image: premium_casket.png
 youtubeId: VctfXzoEMQk
 hidden: true
+published: false
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
