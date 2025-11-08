@@ -11,20 +11,3 @@ hidden: true
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-## Logline
-
-An awkward cremations saleswoman swipes a burial client from her money-hungry colleague.
-
-## Crew
-
-Directed by: Josh Park
-
-Produced by: Christian Yamane
-
-Director of Photography: Sarah Jaffe
-
-## Cast
-
-Serra Neiman as Lisa
-
-Tyler Aguallo as Zeke
