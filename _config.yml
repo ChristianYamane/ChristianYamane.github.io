@@ -19,4 +19,5 @@ author:              "Christian Yamane"
 #feed:
 #  path: rss-feed.xml
 
-hide_post_share: false
+hide_post_share: true
+hide_related_posts: true
