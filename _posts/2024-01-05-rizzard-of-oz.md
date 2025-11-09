@@ -10,16 +10,3 @@ youtubeId: dR5VQtUMwVM
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-## Crew
-
-Directed by: Jesa Miclat & Christian Yamane
-
-Creative Director: Christian Yamane
-
-Producers: Naomi Lin & Jesa Miclat & Christian Yamane
-
-Director of Photography: Lucas Williams
-
-Costume Designer: JoAna Dirilo
-
-Editor/VFX: Jose Marrufo
