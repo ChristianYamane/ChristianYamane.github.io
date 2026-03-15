@@ -8,4 +8,8 @@ Christian Yamane is a writer, director and producer based out of San Diego. He a
 
 Most of his experience comes from writing, directing, producing narrative films, music videos, and fashion ads. Known for his absurd stories and unique visual style, he aims to make films that defy conventional storytelling. 
 
+---
 
+### Press
+
+- [San Diego Union-Tribune](https://www.sandiegouniontribune.com/2025/11/01/a-simple-story-with-a-retro-visual-style/)
