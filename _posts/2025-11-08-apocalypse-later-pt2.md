@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apocalypse Later / Grandma's Donut Shop"
+title: "Apocalypse Later"
 author: "Christian Yamane"
 categories: commercial
 tags: [fashion]
