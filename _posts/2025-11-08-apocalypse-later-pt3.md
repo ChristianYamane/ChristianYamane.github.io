@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apocalypse Later / The Obstacle"
+title: "Apocalypse Later"
 author: "Christian Yamane"
 categories: commercial
 tags: [fashion]
