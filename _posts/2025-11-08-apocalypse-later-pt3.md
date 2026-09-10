@@ -5,7 +5,7 @@ author: "Christian Yamane"
 categories: commercial
 tags: [fashion]
 image: apo_pt3.png
-youtubeId: zgfrYKm3GTc
+youtubeId: 3zyfpCaDugQ
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
